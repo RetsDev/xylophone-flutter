@@ -1,6 +1,7 @@
 
 
 Exercício do Bootcamp de Flutter, xilofone
+*Clique na imagem para ver em vídeo
 
 # Xylophone 🎹
 
